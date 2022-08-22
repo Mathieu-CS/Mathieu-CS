@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mathieu-CS
 - 👀 I’m interested in music, lifting and martial arts
-- 🌱 I’m currently learning computer science at EPITA
+- 🌱 I’m currently learning computer science at EPITA (currently in my 3rd year)
 - 💞️ I’m looking to collaborate on : we'll see what the future brings me!
 - 📫 How to reach me : mathieu.dubrulle@epita.fr
 
